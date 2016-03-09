@@ -1,0 +1,21 @@
+{
+  "name": "nitish-bower",
+  "description": "This is test bower",
+  "main": "main.js",
+  "moduleType": [],
+  "keywords": [
+    "nitish"
+  ],
+  "authors": [
+    "Nitish Lamba"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
