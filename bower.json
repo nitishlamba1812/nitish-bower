@@ -1,5 +1,6 @@
 {
   "name": "nitish-bower",
+  "version": "0.0.2",
   "description": "This is test bower",
   "main": "main.js",
   "moduleType": [],
